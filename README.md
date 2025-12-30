@@ -29,6 +29,3 @@ There is no installation required. This is a static web page.
 * **Not a Legal Traffic Device:** This tool is for auxiliary visibility only. It does not replace official traffic signals, crosswalks, or reflective gear.
 * **Drivers May Not Stop:** Do not assume a driver sees you or will stop just because you are using this light. Always make eye contact and confirm the vehicle is slowing down before stepping onto the road.
 * **Night Use Only:** Phone screens are generally not bright enough to be effective signals during daylight hours.
-
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
